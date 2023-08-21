@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com nadinha✨
 - 🌱 Estudando JavaScript e TypeScript
-- 📫 Contate-me pelo email: heydevitalo@gmail.com
+- 📫 Contate-me pelo email: devitaloferreira@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
