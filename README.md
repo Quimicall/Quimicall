@@ -1,7 +1,4 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="italoFerreira.jpg" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center"> Olá sou o Ítalo <br><br> Eu ❤️ resolver meus problemas com a tecnologia <br><br> Do desenvolvimento backend usando DJango ao desenvolvimento frontend usando React,, Sou <strong>
  apaixonado por descobrir coisas novas</strong> e usá-los para criar soluções de alta qualidade. </p>&nbsp;
 
