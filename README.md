@@ -1,5 +1,5 @@
 
-<p align="center"> Olá sou o Ítalo <br><br> Eu ❤️ resolver meus problemas com a tecnologia <br><br> Do desenvolvimento backend usando DJango ao desenvolvimento frontend usando React,, Sou <strong>
+<p align="center"> Olá sou o Ítalo <br><br> Eu ❤️ resolver meus problemas com a tecnologia <br><br> Do desenvolvimento backend usando DJango ao desenvolvimento frontend usando React, Sou <strong>
  apaixonado por descobrir coisas novas</strong> e usá-los para criar soluções de alta qualidade. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
