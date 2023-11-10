@@ -1,5 +1,5 @@
 
-<p align="center"> Olá! Eu sou Ítalo Ferreira. <br><br> • Desenvolvimento do backend com DJango ao frontend usando React. <br><br> </p>&nbsp;
+<p align="center"> Olá! Eu sou Ítalo Ferreira. <br><br></p>&nbsp;
 <p align="left"> <br><br> • Desenvolvimento do backend com DJango ao frontend usando React. <br><br> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
