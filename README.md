@@ -1,6 +1,6 @@
 
 <p align="center"> Olá! Eu sou Ítalo Ferreira.</p>&nbsp;
-<p align="left">• Desenvolvimento do backend com DJango ao frontend usando React. <br><br> • Criação de Machine Leaning com SKLearn e Análise de dados </p>&nbsp;
+<p align="left">• Desenvolvimento do backend com DJango ao frontend usando React. <br><br> • Criação de Machine Leaning com SKLearn e Análise de dados <br><br> • Desenvolvimento de Portifólios</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Quimicall&theme=radical&mode=weekly" />
