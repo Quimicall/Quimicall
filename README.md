@@ -1,7 +1,7 @@
 ### Opa! Eu sou o Ítalo
 
 - 🔭 Hoje trabalho com nadinha✨
-- 🌱 Estudando JavaScript e TypeScript
+- 🌱 Estudando JavaScript
 - 📫 Contate-me pelo email: devitaloferreira@gmail.com
 - 😄 Pronouns: Ele/Dele
 
