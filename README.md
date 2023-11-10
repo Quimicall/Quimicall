@@ -3,8 +3,8 @@
  apaixonado por descobrir coisas novas</strong> e usá-los para criar soluções de alta qualidade. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quimicall&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quimicall&layout=compact&langs_count=7&theme=dark"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=quimicall&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-quimicall.vercel.app/api/top-langs/?username=quimicall&show_icons=true&theme=radical&layout=compact" />
 
  </div>
  
