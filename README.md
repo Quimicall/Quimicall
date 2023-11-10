@@ -1,6 +1,5 @@
 
-<p align="center"> Olá sou o Ítalo <br><br> Eu ❤️ resolver meus problemas com a tecnologia <br><br> Do desenvolvimento backend usando DJango ao desenvolvimento frontend usando React, Sou <strong>
- apaixonado por descobrir coisas novas</strong> e usá-los para criar soluções de alta qualidade. </p>&nbsp;
+<p align="center"> Olá! Eu sou Ítalo Ferreira. <br><br> • Desenvolvimento do backend com DJango ao frontend usando React. <br><br> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Quimicall&theme=radical&mode=weekly" />
