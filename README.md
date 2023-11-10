@@ -1,5 +1,6 @@
 
 <p align="center"> Olá! Eu sou Ítalo Ferreira. <br><br> • Desenvolvimento do backend com DJango ao frontend usando React. <br><br> </p>&nbsp;
+<p align="left"> <br><br> • Desenvolvimento do backend com DJango ao frontend usando React. <br><br> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Quimicall&theme=radical&mode=weekly" />
